@@ -1,4 +1,4 @@
-export const URL = "https://api.genia-kupipodariday.nomoredomains.work";
+export const URL = "https://api.kupipodaridaygolotina.nomorepartiesco.ru";
 
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;
